@@ -1,0 +1,20 @@
+# Proyecto Spark Streaming con Kafka
+
+Este proyecto demuestra cómo procesar datos de sensores en tiempo real usando Apache Kafka como sistema de mensajería y Spark Streaming para el procesamiento.
+
+## Requisitos Previos
+
+- Java 8 o superior
+- Python 3.6+
+- Apache Kafka 3.7.2
+- Apache Spark 3.5.3
+- Librerías Python:
+  - kafka-python
+  - pyspark
+
+## Instalación
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/kafka-spark-streaming-project.git
+   cd kafka-spark-streaming-project
